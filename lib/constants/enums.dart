@@ -1,0 +1,3 @@
+enum NoteStatus{
+  Active,Done
+}
